@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-23T22:56:13.168Z
-Commit: Implement user profile customization
+Timestamp: 2025-11-23T23:01:02.500Z
+Commit: Resolve null pointer exception in user service
